@@ -1,8 +1,4 @@
 
-# Intro
-
-
-
 # Question
 
 The website you currently manage has been extended to include an SSL secure application extension. You have been assigned the task of installing a webserver on this system and configuring the SSL properties according to your organization's security policy. Complete the following steps to ensure the web server is correctly configured:
@@ -15,7 +11,7 @@ Using the `prod_pk.key` Private Key file in `/opt/CESC00101/ssl` , generate a Ce
     City: Gotham City
     Organization name: Earthco
     OU Name: MGMT
-    Server Name: app.example.co
+    Server Name: app.example.com
     Email address: nemo@example.com
 
 Generate a self-signed certificate named ca.crt in `/opt/CESC00101/ssl` , using the `CSR` you just generated and the `prod_pk.key` private key file, both of which are located in `/opt/CESC00101/ssl` . The certificate should expire in `730` days.
