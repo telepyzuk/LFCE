@@ -1,8 +1,4 @@
 
-# Intro
-
-
-
 # Question
 
 The website that your organization owns has seen significant increases in traffic over the past two quarters. As part of service optimization, you have been tasked with installing the `Squid` proxy in order to reduce bandwidth and improve page load times for your growing website. To do this, please complete the following:
