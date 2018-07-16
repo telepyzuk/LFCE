@@ -8,6 +8,7 @@ This is an lxc domain, and that aspect of the configuration should not be change
 The domain should be set to autostart.
 
 Domain specs:
+
     Name: `cloudx-dev`
     Memory: `512MB`
     Virtual CPUs: `1`
